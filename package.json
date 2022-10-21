@@ -1,0 +1,16 @@
+{
+"name": "blue777slot",
+"theme": "blue 777 slot",
+"version": "8.2.4",
+"description": "blue 777 slot สมัครเว็บไซต์สล็อตเว็บตรง คนเล่นเยอะ แจกเครดิตฟรี",
+"keywords": [
+"blue 777 slot",
+"blue 777 slot เครดิตฟรี",
+"blue 777 slot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/blue777slot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
